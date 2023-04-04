@@ -34,7 +34,7 @@ export default function Home() {
               style={{ textDecoration: "none", color: "#ff3d00" }}
               href={cv}
               download="Taruna_sharma_Resume"
-              onClick={()=>window.open("https://drive.google.com/file/d/1CO_LJNerbL7JKf-ZexWRtHEzx72kpEiw/view?usp=share_link")}
+              onClick={()=>window.open("https://drive.google.com/file/d/1Brdh_LiyzYyv_ueo_VZN76CM8FX5RY2v/view?usp=share_link")}
             >
               Resume
             </a>
