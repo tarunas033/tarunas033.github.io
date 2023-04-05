@@ -1,6 +1,6 @@
 import React from 'react';
 import { Typewriter } from 'react-simple-typewriter';
-import cv from '../Images/Taruna_sharma_resume.pdf';
+import cv from '../Images/Taruna-Sharma-Resume.pdf';
 import resume from '../Images/resume.png';
 
 export default function Home() {
