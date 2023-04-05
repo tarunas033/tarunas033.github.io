@@ -108,7 +108,10 @@ export default function Project() {
                 src="https://cdn-icons-png.flaticon.com/512/732/732190.png"
                 alt=""
               />
-
+                <img
+                src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png"
+                alt=""
+              />
               <img
                 src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"
                 alt=""
@@ -153,7 +156,7 @@ export default function Project() {
       <motion.div initial="hidden" whileInView="visible" variants={slideLeft}>
         <div className="p1">
           <div>
-            <img src={Netmeds} alt="Netmeds" />
+            <img src={Netmeds} alt="Bewkoof" />
             <h2 className="projectText name1">Tech Stack</h2>
             <div className="techStack">
               <img
@@ -238,11 +241,8 @@ export default function Project() {
                 alt=""
               />
 
-              <img
-                height="50px"
-                src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg"
-                alt=""
-              />
+              
+              
             </div>
           </div>
 
