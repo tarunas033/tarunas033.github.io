@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.25d4981f.css",
-    "main.js": "/static/js/main.f516da54.js",
+    "main.js": "/static/js/main.70b9fcc8.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Bewkoof.png": "/static/media/Bewkoof.ab1338373387c5a35ace.png",
     "static/media/Beauty.png": "/static/media/Beauty.d554f4369d35e371fb62.png",
     "static/media/Netmeds.png": "/static/media/Netmeds.5692bc6939022c5fb51b.png",
     "static/media/Rodan.png": "/static/media/Rodan.21891a64e961f476e81c.png",
-    "static/media/Taruna_sharma_resume.pdf": "/static/media/Taruna_sharma_resume.21e8376b8550080deb75.pdf",
+    "static/media/Taruna-Sharma-Resume.pdf": "/static/media/Taruna-Sharma-Resume.69f01c73e5e6b720e787.pdf",
     "static/media/resume.png": "/static/media/resume.60c4f53d340d7c84130f.png",
     "index.html": "/index.html",
     "main.25d4981f.css.map": "/static/css/main.25d4981f.css.map",
-    "main.f516da54.js.map": "/static/js/main.f516da54.js.map",
+    "main.70b9fcc8.js.map": "/static/js/main.70b9fcc8.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25d4981f.css",
-    "static/js/main.f516da54.js"
+    "static/js/main.70b9fcc8.js"
   ]
 }
